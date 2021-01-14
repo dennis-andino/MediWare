@@ -1,0 +1,120 @@
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\MediWare.exe.config
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\MediWare.exe
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\MediWare.pdb
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\MediWare.xml
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.vbprojAssemblyReference.cache
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.FrmLogin.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.Resources.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.vbproj.GenerateResource.cache
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.vbproj.CoreCompileInputs.cache
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.exe
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.xml
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.pdb
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.frmPrincipal.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.frmAsegurado.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\FlashControlV71.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\bin\Debug\stdole.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.RepDependientes.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.vbproj.CopyComplete
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.frmRepReclamos.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.frmRecMax.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.frmBitacora.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.frmRepPoliza.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Base de Datos\MediWare\MediWare\obj\Debug\MediWare.frmRecXfech.resources
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\MediWare.exe.config
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\MediWare.exe
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\MediWare.pdb
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\MediWare.xml
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\FlashControlV71.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\bin\Debug\stdole.dll
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.vbprojAssemblyReference.cache
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.FrmLogin.resources
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.Resources.resources
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.frmRecMax.resources
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.frmRecXfech.resources
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.frmRepPoliza.resources
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.frmRepReclamos.resources
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.RepDependientes.resources
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.frmAsegurado.resources
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.frmBitacora.resources
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.frmPrincipal.resources
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.vbproj.GenerateResource.cache
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.vbproj.CoreCompileInputs.cache
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.vbproj.CopyComplete
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.exe
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.xml
+C:\Users\cib1007\Downloads\Mediware_17_12_18\MediWare\obj\Debug\MediWare.pdb
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\MediWare.exe.config
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\MediWare.exe
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\MediWare.pdb
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\MediWare.xml
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\FlashControlV71.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\bin\Debug\stdole.dll
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.vbprojAssemblyReference.cache
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.FrmLogin.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.Resources.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.frmRecMax.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.frmRecXfech.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.frmRepPoliza.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.frmRepReclamos.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.RepDependientes.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.frmAsegurado.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.frmBitacora.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.frmPrincipal.resources
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.vbproj.GenerateResource.cache
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.vbproj.CoreCompileInputs.cache
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.vbproj.CopyComplete
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.exe
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.xml
+C:\Users\Dennis_Andino\Documents\CEUTEC\Proyectos de Programacion\Mediware_17_12_18\MediWare\obj\Debug\MediWare.pdb
